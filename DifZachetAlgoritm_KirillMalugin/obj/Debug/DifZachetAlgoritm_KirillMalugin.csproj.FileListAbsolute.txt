@@ -1,0 +1,10 @@
+C:\Users\305-3\Desktop\Kirill Malugin\DifZachetAlgoritm_KirillMalugin\bin\Debug\DifZachetAlgoritm_KirillMalugin.exe.config
+C:\Users\305-3\Desktop\Kirill Malugin\DifZachetAlgoritm_KirillMalugin\bin\Debug\DifZachetAlgoritm_KirillMalugin.exe
+C:\Users\305-3\Desktop\Kirill Malugin\DifZachetAlgoritm_KirillMalugin\bin\Debug\DifZachetAlgoritm_KirillMalugin.pdb
+C:\Users\305-3\Desktop\Kirill Malugin\DifZachetAlgoritm_KirillMalugin\obj\Debug\DifZachetAlgoritm_KirillMalugin.csproj.AssemblyReference.cache
+C:\Users\305-3\Desktop\Kirill Malugin\DifZachetAlgoritm_KirillMalugin\obj\Debug\DifZachetAlgoritm_KirillMalugin.Form1.resources
+C:\Users\305-3\Desktop\Kirill Malugin\DifZachetAlgoritm_KirillMalugin\obj\Debug\DifZachetAlgoritm_KirillMalugin.Properties.Resources.resources
+C:\Users\305-3\Desktop\Kirill Malugin\DifZachetAlgoritm_KirillMalugin\obj\Debug\DifZachetAlgoritm_KirillMalugin.csproj.GenerateResource.cache
+C:\Users\305-3\Desktop\Kirill Malugin\DifZachetAlgoritm_KirillMalugin\obj\Debug\DifZachetAlgoritm_KirillMalugin.csproj.CoreCompileInputs.cache
+C:\Users\305-3\Desktop\Kirill Malugin\DifZachetAlgoritm_KirillMalugin\obj\Debug\DifZachetAlgoritm_KirillMalugin.exe
+C:\Users\305-3\Desktop\Kirill Malugin\DifZachetAlgoritm_KirillMalugin\obj\Debug\DifZachetAlgoritm_KirillMalugin.pdb
